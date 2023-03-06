@@ -91,3 +91,21 @@ This lecture explains the scales of measurements in statistics.
 Click this image to watch the lecture:
 
 [<img src="./resources/06.png" width="40%">](https://www.youtube.com/playlist?list=PL9XvIvvVL50F9l4PhwjJC4hjVbObmq8BV "Scales of Measurements")
+
+
+
+
+
+# Information about the instructor:
+
+[<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
+**Dr. Muhammad Aammar Tufail**
+
+PhD Data Science in Agriculture\
+[Youtube channel](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)\
+[Twitter](https://twitter.com/aammar_tufail)\
+[Linkedin](https://www.linkedin.com/in/muhammad-aammar-tufail-02471213b/)\
+[github](https://github.com/AammarTufail)
+
+contact: aammar@codanics.com

@@ -39,7 +39,8 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 This lecture explains our strategy in the course and you will learn how you can learn data science job ready skills in upcoming 120 days In Sha Allah.
 
 Click this image to watch the lecture:
-[<img src="./resources/01.png" width="80%">](https://www.youtube.com/live/2pM_RTd8NKg?feature=share "Data Data Every where")
+
+[<img src="./resources/01.png" width="40%">](https://www.youtube.com/live/2pM_RTd8NKg?feature=share "Data Data Every where")
 
 ## **Lecture No. 2: Introduction to Data Science and importance of Statistics:**
 
@@ -48,7 +49,8 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 This lecture explains what is data science and what are the skills you need to become a data scientist.
 
 Click this image to watch the lecture:
-[<img src="./resources/02.png" width="80%">](https://www.youtube.com/live/V8iUK5fJo5g?feature=share "Introduction to Data Science")
+
+[<img src="./resources/02.png" width="40%">](https://www.youtube.com/live/V8iUK5fJo5g?feature=share "Introduction to Data Science")
 
 ## **Lecture No. 3: Statistics to Data Science:**
 
@@ -57,7 +59,8 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 This lecture explains what is statistics and how it is related to data science.
 
 Click this image to watch the lecture:
-[<img src="./resources/03.png" width="80%">](https://www.youtube.com/live/UmiYoRNq0oA?feature=share "Statistics to Data Science")
+
+[<img src="./resources/03.png" width="40%">](https://www.youtube.com/live/UmiYoRNq0oA?feature=share "Statistics to Data Science")
 
 ## **Lecture No. 4: Stat ka zero se start (Complete Workshop):**
 
@@ -66,7 +69,8 @@ This lecture is the complete workshop on statistics for Data Science and tells y
 This lecture explains why statistics is important for data science.
 
 Click this image to watch the lecture:
-[<img src="./resources/04.png" width="80%">](https://www.youtube.com/live/ptp9XcvONfw?feature=share "Stat ki workshop")
+
+[<img src="./resources/04.png" width="40%">](https://www.youtube.com/live/ptp9XcvONfw?feature=share "Stat ki workshop")
 
 ## **Lecture No. 5: Introduction to Python and Data Science Revision:**
 
@@ -75,7 +79,8 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Please revise this lecture before going to the next step. This lecture was a pre-requisite for the course. Is liay is lecture ko pehlay ap practice karen phir agay chalen, warna maslay masael hun gay.
 
 Click this image to watch the lecture:
-[<img src="./resources/05.png" width="80%">](https://www.youtube.com/live/xjTMkxVSSxg?feature=share "Revision of Data Science")
+
+[<img src="./resources/05.png" width="40%">](https://www.youtube.com/live/xjTMkxVSSxg?feature=share "Revision of Data Science")
 
 ## **Lecture No. 6: Statistics for Data Science (Scales of Measurements):**
 
@@ -84,4 +89,5 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 This lecture explains the scales of measurements in statistics.
 
 Click this image to watch the lecture:
-[<img src="./resources/06.png" width="80%">](https://www.youtube.com/playlist?list=PL9XvIvvVL50F9l4PhwjJC4hjVbObmq8BV "Scales of Measurements")
+
+[<img src="./resources/06.png" width="40%">](https://www.youtube.com/playlist?list=PL9XvIvvVL50F9l4PhwjJC4hjVbObmq8BV "Scales of Measurements")

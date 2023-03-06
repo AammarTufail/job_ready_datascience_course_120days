@@ -82,15 +82,15 @@ Click this image to watch the lecture:
 
 [<img src="./resources/05.png" width="40%">](https://www.youtube.com/live/xjTMkxVSSxg?feature=share "Revision of Data Science")
 
-## **Lecture No. 6: Statistics for Data Science (Scales of Measurements):**
+## **Lecture No. 6: Statistics for Data Science (Scales of Measurements and details about Data Types):**
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-This lecture explains the scales of measurements in statistics.
+This lecture explains the scales of measurements and Data Types in statistics.
 
 Click this image to watch the lecture:
 
-[<img src="./resources/06.png" width="40%">](https://www.youtube.com/playlist?list=PL9XvIvvVL50F9l4PhwjJC4hjVbObmq8BV "Scales of Measurements")
+[<img src="./resources/06.png" width="40%">](https://www.youtube.com/live/HTn4zNLBa1I?feature=share "Phase-I")
 
 
 

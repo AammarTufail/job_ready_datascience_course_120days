@@ -92,6 +92,14 @@ Click this image to watch the lecture:
 
 [<img src="./resources/06.png" width="40%">](https://www.youtube.com/live/HTn4zNLBa1I?feature=share "Phase-I")
 
+## **Lecture No. 7: Descriptive vs. Inferential  Statistics (Choosing a right statistical Method):**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+This lecture explains the Descriptive Statistics in statistics. 
+
+Click this image to watch the lecture:
+
+[<img src="./resources/07.png" width="40%">](https://www.youtube.com/live/rsfPdUANZIY?feature=share "Phase-II and Phase-III")
 
 
 

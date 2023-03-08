@@ -101,6 +101,19 @@ Click this image to watch the lecture:
 
 [<img src="./resources/07.png" width="40%">](https://www.youtube.com/live/rsfPdUANZIY?feature=share "Phase-II and Phase-III")
 
+## **Lecture No. 8: Descriptive and Inferential Statistics:**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+> **Part-1**\
+Click this image to watch the lecture:
+
+[<img src="./resources/08a.png" width="40%">](https://www.youtube.com/live/F51AV1czAAc?feature=share "Phase-II and Phase-III")
+
+> **Part-2**\
+Click this image to watch the lecture:
+
+[<img src="./resources/08b.png" width="40%">](https://www.youtube.com/live/QX2jZgXgqYM?feature=share "Phase-II and Phase-III")
 
 
 

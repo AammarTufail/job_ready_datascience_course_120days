@@ -115,7 +115,25 @@ Click this image to watch the lecture:
 
 [<img src="./resources/08b.png" width="40%">](https://www.youtube.com/live/QX2jZgXgqYM?feature=share "Phase-II and Phase-III")
 
+## **Lecture No. 9: Statistics:**
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+> **Part-1** Inferential Statistics for Data Science\
+[<img src="./resources/09a.png" width="40%">](https://www.youtube.com/live/Wl28DaEoZXc?feature=share&t=411 "Statistics")
+
+> **Part-2** Inferential Statistics for Data Science\
+[<img src="./resources/09b.png" width="40%">](https://www.youtube.com/live/1kldE86nL9E?feature=share&t=152 "Statistics")
+
+## **Lecture No. 10: Statistics:**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+> **Part-1** Hypothesis Testing\
+[<img src="./resources/10a.png" width="40%">](https://www.youtube.com/live/UFVyzGZpUWE?feature=share&t=110 "Statistics")
+
+> **Part-2** Important Terms in Statistics\
+[<img src="./resources/10b.png" width="40%">](https://www.youtube.com/live/I9VI5_DkZoU?feature=share "Statistics")
 
 # Information about the instructor:
 

@@ -135,6 +135,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 > **Part-2** Important Terms in Statistics\
 [<img src="./resources/10b.png" width="40%">](https://www.youtube.com/live/I9VI5_DkZoU?feature=share "Statistics")
 
+
+## Lecture No. 11: Data Analytics Skills and Job plans:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/11.png" width="40%">](https://www.youtube.com/live/rSZIzQGaprw?feature=share "Statistics")
+
+
 # Information about the instructor:
 
 [<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")

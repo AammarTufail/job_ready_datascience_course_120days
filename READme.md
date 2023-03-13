@@ -165,7 +165,7 @@ These instructions are a must thing to learn during this MS Excel Series, MS Exc
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/13.png" width="40%">](e "Statistics")
+[<img src="./resources/13.png" width="40%">](https://www.youtube.com/live/_gW0Dooc_rQ?feature=share "Statistics")
 
 
 # Information about the instructor:

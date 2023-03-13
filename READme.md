@@ -142,10 +142,36 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/11.png" width="40%">](https://www.youtube.com/live/rSZIzQGaprw?feature=share "Statistics")
 
+## Lecture No. 12: (Revise the Lecture 11) Data Analytics Skills and Job plans:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/12.png" width="40%">](https://www.youtube.com/live/rSZIzQGaprw?feature=share "Statistics")
+
+
+## Lecture No. 13: Spreadsheets in Data Science
+
+We will learn about MS Excel for next few lectures and the lectures will be uploaded here in sequence.
+
+These instructions are a must thing to learn during this MS Excel Series, MS Excel aik bht bara software hy and we can not finish in short time, main ap ko basics sikhaoun ga but you have to learn the advance techniques. Q k har aik company main MS Excel se hi start kia jata hy.
+
+> **Installation**\
+> Install MS Excel office 365 free for life time [here](https://www.youtube.com/watch?v=97PIQ3kDl5A)
+---
+
+>You also have to practice yourself for MS Excel basics from following online free resources:
+>1.  [Learn the basics of MS Excell from here](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+> 2. [Learn Basic to Intermediate MS Excel from here](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-17231101/getting-started-with-excel-for-microsoft-365?autoplay=true)
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/13.png" width="40%">](e "Statistics")
+
 
 # Information about the instructor:
 
 [<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
 
 **Dr. Muhammad Aammar Tufail**
 

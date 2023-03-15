@@ -177,10 +177,31 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/14.png" width="40%">](https://youtube.com/live/9OjZhMfiB-s?feature=share "Statistics in MS Excel")
 
 
+## **Lecture No. 15: Excel Statistics and SQL**
+
+> **Part-1:** In this video you will learn basic statistical analysis in MS Excel Spreadsheet.
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/15a.png" width="40%">](https://www.youtube.com/live/Hp-AsTQxMis?feature=share "Statistics in MS Excel")
+
+> **Part-2:**  **SQL (Structured Query Language) Language**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/15b.png" width="40%">](https://www.youtube.com/live/1HSHISQNxEM?feature=share "SQL")
+
+
+> [Here is the link to download SQL Cheat sheet](./resources/cheat_sheets/SQL-cheat-sheet.pdf)
+
+
+
+
 
 # Information about the instructor:
 
 [<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
 
 
 **Dr. Muhammad Aammar Tufail**

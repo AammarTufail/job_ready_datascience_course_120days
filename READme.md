@@ -136,7 +136,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/10b.png" width="40%">](https://www.youtube.com/live/I9VI5_DkZoU?feature=share "Statistics")
 
 
-## Lecture No. 11: Data Analytics Skills and Job plans:
+## **Lecture No. 11: Data Analytics Skills and Job plans:**
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
@@ -149,7 +149,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/12.png" width="40%">](https://www.youtube.com/live/rSZIzQGaprw?feature=share "Statistics")
 
 
-## Lecture No. 13: Spreadsheets in Data Science
+## **Lecture No. 13: Spreadsheets in Data Science**
 
 We will learn about MS Excel for next few lectures and the lectures will be uploaded here in sequence.
 
@@ -166,6 +166,16 @@ These instructions are a must thing to learn during this MS Excel Series, MS Exc
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/13.png" width="40%">](https://www.youtube.com/live/_gW0Dooc_rQ?feature=share "Statistics")
+
+
+## **Lecture No. 14: Spreadsheets in Data Science**
+
+The dataset used in this video can be downloaded from [here](./resources/datasets/lecture14.xlsx)
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/14.png" width="40%">](https://youtube.com/live/9OjZhMfiB-s?feature=share "Statistics in MS Excel")
+
 
 
 # Information about the instructor:

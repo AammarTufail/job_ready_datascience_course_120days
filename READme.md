@@ -195,6 +195,39 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 > [Here is the link to download SQL Cheat sheet](./resources/cheat_sheets/SQL-cheat-sheet.pdf)
 
 
+## **Lecture No. 16: SQL**
+
+> **Part-1:**  **SQL (Structured Query Language) Language- Introduction**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/16a.jpeg" width="40%">](https://youtu.be/dhUapcKiVCE "Part-1")
+
+> **Part-2:**  **SQL (Structured Query Language) Language Introduction**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/16b.jpeg" width="40%">](https://youtu.be/FObIvpIpLTw "Part-2")
+
+> **Part-3:**  **SQL Software installation**
+- Download:\
+[Here is the link to download mySQL](https://www.mysql.com/downloads/)
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/16c.jpeg" width="40%">](https://youtu.be/-zygvRJmAtQ "Part-3")
+
+> **Part-4:**  **How to create SQL database?**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/16d.jpeg" width="40%">](https://youtu.be/JpDkyXoPBZk "Part-4")
+
+> **Part-5:**  **How to create SQL table?**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/16e.jpeg" width="40%">](https://youtu.be/Av91mx70S7U "Part-5")
 
 
 

@@ -240,9 +240,15 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 **Dr. Muhammad Aammar Tufail**
 
 PhD Data Science in Agriculture\
-[Youtube channel](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)\
-[Twitter](https://twitter.com/aammar_tufail)\
-[Linkedin](https://www.linkedin.com/in/muhammad-aammar-tufail-02471213b/)\
-[github](https://github.com/AammarTufail)
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">](https://github.com/AammarTufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/aammar_tufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/)
+
+
+
+For any query
 
 contact: aammar@codanics.com

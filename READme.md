@@ -230,7 +230,84 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/16e.jpeg" width="40%">](https://youtu.be/Av91mx70S7U "Part-5")
 
 
+## **Lecture No. 17: SQL intermediate**
 
+> **Part-1:**  **Distinct Function in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/17a.jpeg" width="40%">](https://youtu.be/iyh9POBa7og "Part-1")
+
+> **Part-2:**  **Constraints in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/17b.jpeg" width="40%">](https://youtu.be/BkXR7K5sknI "Part-2")
+
+> **Part-3:**  **Auto-increament in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/17c.jpeg" width="40%">](https://youtu.be/vOTBV98RqmQ "Part-3")
+
+> **Part-4:**  **mySQL workbench first look**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/17d.jpeg" width="40%">](https://youtu.be/No95xmZ3Mas "Part-4")
+
+> **Part-5:**  **Import mySQL database in mySQL workbench**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/17e.jpeg" width="40%">](https://youtu.be/8IS5RGQEnRk "Part-5")
+
+
+## **Lecture No. 18: SQL intermediate**
+
+> **Part-1:**  **Pandas procerssing on mySQL database**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18a.jpeg" width="40%">](https://youtu.be/U3rwON7zQfI "Part-1")
+
+> **Part-2:**  **SELECT clause in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18b.jpeg" width="40%">](https://youtu.be/lAHGLm2aR7Y "Part-2")
+
+> **Part-3:**  **Data Manipulation in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18c.jpeg" width="40%">](https://youtu.be/ghKtOD0Yh5M "Part-3")
+
+> **Part-4:**  **Where Clause and Comparison operators in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18d.jpeg" width="40%">](https://youtu.be/XqzQ0xcpjZc "Part-4")
+
+> **Part-5:**  **AND NOT OR IN in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18e.jpeg" width="40%">](https://youtu.be/H-lZfW3texo "Part-5")
+
+> **Part-6:**  **BETWEEN clause in mySQL**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/18f.jpeg" width="40%">](https://youtu.be/6B4bPNXUlhQ "Part-6")
+
+
+
+
+
+
+
+---
 # Information about the instructor:
 
 [<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
@@ -239,7 +316,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 **Dr. Muhammad Aammar Tufail**
 
-PhD Data Science in Agriculture\
+PhD Data Science in Agriculture
 
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/)

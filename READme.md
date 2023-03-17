@@ -26,6 +26,17 @@ We will cover follwoing things in this course:
 * Only few people in Team so you can work free and ask questions
 * Much more, which will only be disclosed to registered people.
 
+## **Resources**
+### *Books* (I will keep updating this list, if you have any book that you think should be added in this list, please let me know via telegram or email)
+
+* [R for Data Science](https://r4ds.hadley.nz/)
+* [Statistics for Data Scientists](./resources/books/statistics%20for%20data%20science.pdf)
+* [Python for Data Analysis](https://wesmckinney.com/book/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 2nd Edition](./resources/books/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 3rd Edition](https://pan.baidu.com/s/1SyPW8cAvoDDNwdaWdN9E0A?pwd=g3ma#list/path=%2F)
+
+
 ## **Lecture No. 0: Pre-requisite of this course:**
 
 Is lecture ko complete kiay bina ap agay nahi chal saken gay is course ko start karne se pehlay ye 11 hours ka lectures zaroor sunen or practice karen, phir agay chalen, warna masla ho ga.

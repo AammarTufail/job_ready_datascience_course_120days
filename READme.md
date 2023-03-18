@@ -312,9 +312,11 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/18f.jpeg" width="40%">](https://youtu.be/6B4bPNXUlhQ "Part-6")
 
+> **Part-7:**  **mySQL Practice**
 
+**Remember to pratice from this [website Link](https://www.w3schools.com/mysql/default.asp)** **for more practice.**
 
-
+[<img src="./resources/18h.png" width="40%">](https://www.w3schools.com/mysql/default.asp "Part-6")
 
 
 

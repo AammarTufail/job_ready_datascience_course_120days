@@ -306,19 +306,34 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/18e.jpeg" width="40%">](https://youtu.be/H-lZfW3texo "Part-5")
 
-> **Part-6:**  **BETWEEN clause in mySQL**
+## **Lecture No. 19: SQL intermediate**
+
+> **BETWEEN clause in mySQL**
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/18f.jpeg" width="40%">](https://youtu.be/6B4bPNXUlhQ "Part-6")
+[<img src="./resources/19.jpeg" width="40%">](https://youtu.be/6B4bPNXUlhQ "Part-1")
 
-> **Part-7:**  **mySQL Practice**
+## **Lecture No. 20: SQL Practice**
+
+> **mySQL Practice**
 
 **Remember to pratice from this [website Link](https://www.w3schools.com/mysql/default.asp)** **for more practice.**
 
-[<img src="./resources/18h.png" width="40%">](https://www.w3schools.com/mysql/default.asp "Part-6")
+[<img src="./resources/20.png" width="40%">](https://www.w3schools.com/mysql/default.asp "Part-1")
 
+## **Lecture No. 21: R and R studio**
 
+Aaj se ham R and RStudio per kaam karna start karen gay. Sab se pehlay ap log following software install kar len:
+
+- **R** downlpoad and install from [here](https://cran.r-project.org/bin/windows/base/)
+- Rstudio download and install from [here](https://rstudio.com/products/rstudio/download/#download) 
+
+>Software install karne k baad aaaj se ham `R` or `Rstudio` ko Data Analaysis k tasks k liay use karne walay hyn agar ap tez speed per seekhna chahtay hyn tu is [playlist se R with Aammar](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU) seekh len, warna ham tu anay walay lectures main sikha hi den gay ap ko. 
+
+Click the image to watch the lecture in Urdu/Hindi.
+
+[<img src="./resources/21.jpeg" width="40%">](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU "R with Aammar")
 
 ---
 # **Information about the instructor:**

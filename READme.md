@@ -341,8 +341,11 @@ Click the image to watch the complete playlist of R with Aammar in Urdu/Hindi.
 [<img src="./resources/21.jpeg" width="40%">](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU "R with Aammar")
 
 
+## **Lecture No. 22: R and R studio**
 
+Click the image to watch the lecture in Urdu/Hindi.
 
+[<img src="./resources/22.png" width="40%">](https://www.youtube.com/live/EeiwHyxVlhc?feature=share "R with Aammar- Class2")
 
 
 

@@ -333,7 +333,22 @@ Aaj se ham R and RStudio per kaam karna start karen gay. Sab se pehlay ap log fo
 
 Click the image to watch the lecture in Urdu/Hindi.
 
+[<img src="./resources/21a.png" width="40%">](https://youtube.com/live/X9_doWP4Jv4?feature=share "R with Aammar- Class1")
+
+
+Click the image to watch the complete playlist of R with Aammar in Urdu/Hindi.
+
 [<img src="./resources/21.jpeg" width="40%">](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU "R with Aammar")
+
+
+
+
+
+
+
+
+
+
 
 ---
 # **Information about the instructor:**

@@ -348,6 +348,84 @@ Click the image to watch the lecture in Urdu/Hindi.
 [<img src="./resources/22.png" width="40%">](https://www.youtube.com/live/EeiwHyxVlhc?feature=share "R with Aammar- Class2")
 
 
+## **Lecture No. 23: R and R studio**
+
+### **Lecture 23a: Installation of Software and Introduction to R**
+- Click this image to watch the lecture\
+[<img src="./resources/r/00.png" width="42%">](https://www.youtube.com/watch?v=7Kq4mhY1mLM&list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU&index=1&t=8s "Lecture 1a")
+
+### **Lecture 23b: First Line of Code in R and learning to work with R**
+- Click this image to watch the lecture\
+[<img src="./resources/r/01.png" width="42%">](https://www.youtube.com/live/yaVWzaKmV0c?feature=share "Lecture 1b")
+
+### **Lecture 23c: Data Visualization and plotting in R using ggplot2**
+- Click this image to watch the lecture\
+[<img src="./resources/r/02.png" width="42%">](https://www.youtube.com/live/ZX4TamrL4Lg?feature=share "Lecture 2")
+
+### **Lecture 23d: Data Visualization and Data Transformation in R using tidyverse packages**
+- Click this image to watch the lecture\
+[<img src="./resources/r/03.png" width="42%">](https://www.youtube.com/live/6Ez7MQqudhQ?feature=share "Lecture 3")
+
+### **Publication Ready Graphs in R**
+Wathc these two Playlist to learn Data Visualization in R in Desi style:
+
+1. [Publication Ready Graphs in R](https://www.youtube.com/playlist?list=PL9XvIvvVL50Hi2RGu-zlNEnk9WJMjPH-g)
+2. [Many plots in R](https://www.youtube.com/playlist?list=PL9XvIvvVL50HUjcRuTd5eC-EMA9picnVz)
+
+
+## **Lecture No. 24: R and R studio**
+
+### **Lecture 24a: Data Transformation in R using tidyverse packages**
+- Click this image to watch the lecture\
+[<img src="./resources/r/04.png" width="42%">](https://www.youtube.com/live/kPevM2yw_fw?feature=share "Lecture 4")
+
+>**Cheat sheet**\
+>Practice this cheatsheet today and then move to next point tomorrow.\
+>[Link to dplyr cheatsheet is here](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf "dplyr cheatsheet")
+
+### **Lecture 24b: Statistics in R**
+- Click this image to watch the lecture\
+[<img src="./resources/r/05.png" width="42%">](https://www.youtube.com/live/9U0F-sct070?feature=share "Lecture 5")
+
+The following links were taught in this lecture:
+1. [How to test Normal Distribution in R?](https://www.statology.org/test-for-normality-in-r/)
+2. [How to make correlation plot in R?](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+3. [How to make PCA plot in R](https://www.youtube.com/watch?v=q9757Bz8Mdw&list=PL9XvIvvVL50HUjcRuTd5eC-EMA9picnVz&index=1&t=1s)
+4. [Here is a nice publication about choosing a right statistical method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6639881/#:~:text=Selection%20of%20appropriate%20statistical%20method,observations%20(paired%2Funpaired).)
+
+### **Lecture 24c: Choosing a right Statistical Method for Data Analysis in R**
+
+- Click this image to watch the lecture\
+[<img src="./resources/r/06.png" width="42%">](https://youtube.com/live/qb-sGvCcQS4 "Lecture 6")
+
+[Here is the code that we used today](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/03-ggpubr/03-ggpubr-readme-.md)
+
+### **Lecture 24d: t-test (all Types), ANOVA, One-way ANOVA, Two-way ANOVA, lettering and plotting in R**
+
+- Click this image to watch the lecture\
+[<img src="./resources/r/07.png" width="42%">](https://www.youtube.com/live/nGbf3J6hB7U?feature=share "Lecture 7")
+
+Here are the codes we discussed in this lecture:
+1. RScript used in this lecture:
+   1. [t-test script](resources/t-test.R)
+   2. [ANOVA](resources/anova.R)
+2. [t-test blog](https://data-flair.training/blogs/t-tests-in-r/#:~:text=What%20is%20T%2Dtests%20in%20R%20Programming%3F,normal%20distributions%20with%20equal%20variances.)
+3. [One-way ANOVA in R complete blog](https://statsandr.com/blog/anova-in-r/)
+4. [Two-way ANOVA in R complete blog](https://www.agroninfo.com/two-way-analysis-of-variance-in-r/)
+
+### **Lecture 24e: Publication Ready Plots in R**
+
+1. Publication Ready Bar plot with one-way ANOVA and lettering in R:
+
+[<img src="./resources/r/bar.png" width="80%">](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/06-%20Publication-ready-Barplots/06--Publication-ready-Barplots.md "bar plot")
+> Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/06-%20Publication-ready-Barplots/06--Publication-ready-Barplots.md)
+
+2. Publication Ready Bar plot with two-way ANOVA and lettering in R:
+
+[<img src="./resources/r/twoway.png" width="80%">](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md "bar plot")
+
+> Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md)
+
 
 
 

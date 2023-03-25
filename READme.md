@@ -427,6 +427,9 @@ Here are the codes we discussed in this lecture:
 > Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md)
 
 
+Here is the lecture on EDA day 24:\
+[<img src="./resources/24.png" width="42%">](https://youtube.com/live/lH6Abps7DMk "Lecture 8")
+
 
 
 

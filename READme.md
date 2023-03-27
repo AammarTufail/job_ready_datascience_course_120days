@@ -426,10 +426,17 @@ Here are the codes we discussed in this lecture:
 
 > Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md)
 
+### **Lecture 25: EDA in R**
 
-Here is the lecture on EDA day 24:\
+Here is the lecture on EDA day 25:\
 [<img src="./resources/24.png" width="42%">](https://youtube.com/live/lH6Abps7DMk "Lecture 8")
 
+### **Lecture 26: EDA in R**
+
+Here is the detailsed code to practice in R, please follow the steps and perform the EDA analysis, this will also show you that how efficient and accurate you are using R for EDA analysis.\
+Here is the link to the code file r script: [code.md](./resources/codes/eda_basics.R) copy or download this file and practice the EDA analysis in R.
+
+### **Lecture 27: EDA in R and Machine Learning basics**
 
 
 

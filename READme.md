@@ -429,16 +429,18 @@ Here are the codes we discussed in this lecture:
 ### **Lecture 25: EDA in R**
 
 Here is the lecture on EDA day 25:\
-[<img src="./resources/24.png" width="42%">](https://youtube.com/live/lH6Abps7DMk "Lecture 8")
+[<img src="./resources/25.png" width="42%">](https://youtube.com/live/lH6Abps7DMk "Lecture 8")
 
 ### **Lecture 26: EDA in R**
 
 Here is the detailsed code to practice in R, please follow the steps and perform the EDA analysis, this will also show you that how efficient and accurate you are using R for EDA analysis.\
-Here is the link to the code file r script: [code.md](./resources/codes/eda_basics.R) copy or download this file and practice the EDA analysis in R.
+Here is the link to the code file r script: [code.md](./resources/codes/eda_basics.R) copy or download this file and practice the EDA analysis in R.\
+[<img src="./resources/26.png" width="42%">](./resources/codes/eda_basics.R "Lecture 26 Practice")
 
-### **Lecture 27: EDA in R and Machine Learning basics**
+### **Lecture 27: EDA in R a project**
 
-
+Here is the lecture on EDA day 27:\
+[<img src="./resources/27.png" width="42%">](https://youtube.com/live/dKHoWyc6p_Q "Lecture 8")
 
 
 ---

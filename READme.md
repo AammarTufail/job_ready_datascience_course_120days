@@ -443,6 +443,20 @@ Here is the lecture on EDA day 27:\
 [<img src="./resources/27.png" width="42%">](https://youtube.com/live/dKHoWyc6p_Q "Lecture 8")
 
 
+### **Lecture 28: EDA in R a project**
+
+Here is the lecture on EDA day 28:\
+[<img src="./resources/28.png" width="42%">](https://youtube.com/live/1UzJqybI71E "Lecture 28")
+
+
+
+
+
+
+
+
+
+
 ---
 # **Information about the instructor:**
 

@@ -449,8 +449,22 @@ Here is the lecture on EDA day 28:\
 [<img src="./resources/28.png" width="42%">](https://youtube.com/live/1UzJqybI71E "Lecture 28")
 
 
+### **Lecture 29: EDA in R a project**
 
+Revise previous lectures and practice the EDA analysis in R.\
 
+### **Lecture 30: EDA in R a project**
+
+Revise previous lectures and practice the EDA analysis in R.\
+
+### **Lecture 31: EDA in R a project**
+
+Revise previous lectures and practice the EDA analysis in R.\
+
+### **Lecture 32: EDA in R a project (Data Science Night)**
+
+Here is the lecture on EDA day 32:\
+[<img src="./resources/32.png" width="42%">](https://youtube.com/live/FcEiqKD8mXg "Lecture 32")
 
 
 

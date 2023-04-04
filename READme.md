@@ -466,7 +466,26 @@ Revise previous lectures and practice the EDA analysis in R.\
 Here is the lecture on EDA day 32:\
 [<img src="./resources/32.png" width="42%">](https://youtube.com/live/FcEiqKD8mXg "Lecture 32")
 
+### **Lecture 33: Practice Python for Data Science pre-lecture given at the start of this course**
 
+Is lecture ko complete kiay bina ap agay nahi chal saken gay is course ko start karne se pehlay ye 11 hours ka lectures zaroor sunen or practice karen, phir agay chalen, warna masla ho ga.
+
+Pre-requisite lecture link is here:\
+[<img src="./resources/33.png" width="42%">](https://www.youtube.com/live/xjTMkxVSSxg?feature=share "Lecture 33")
+
+>[Pre-requisite lecture link is here](https://www.youtube.com/live/xjTMkxVSSxg?feature=share)
+
+
+### **Lecture 34: Start of Python for Data Science**
+
+Here is the lecture on Python day 34:\
+[<img src="./resources/34.png" width="42%">](https://youtube.com/live/YcvZ6xV3hqI "Lecture 34")
+
+### **Lecture 35: Python for Data Science Basic Practice**
+
+
+Here is the lecture on Python day 35:\
+[<img src="./resources/35.png" width="42%">](link "Lecture 35")
 
 
 

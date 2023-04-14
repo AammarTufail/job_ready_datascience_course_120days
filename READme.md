@@ -479,13 +479,84 @@ Pre-requisite lecture link is here:\
 ### **Lecture 34: Start of Python for Data Science**
 
 Here is the lecture on Python day 34:\
-[<img src="./resources/34.png" width="42%">](https://youtube.com/live/YcvZ6xV3hqI "Lecture 34")
+[<img src="./resources/33.png" width="42%">](https://youtube.com/live/YcvZ6xV3hqI "Lecture 34")
 
-### **Lecture 35: Python for Data Science Basic Practice**
-
+### **Lecture 35: Python for Data Science Markdown Language in 72 minutes**
 
 Here is the lecture on Python day 35:\
-[<img src="./resources/35.png" width="42%">](link "Lecture 35")
+[<img src="./resources/35.png" width="42%">]([link](https://youtu.be/qJqAXjz-Rh4?t=5) "Lecture 35")
+
+### **Lecture 36: Python for Data Science basics**
+
+Here is the lecture on Python day 36:\
+[<img src="./resources/36.png" width="42%">](https://www.youtube.com/live/VDIcwafn5x0?feature=share "Lecture 36")
+
+### **Lecture 37: Data Night in Ramzan**
+
+Here is the lecture on Data Night in Ramzan *3 hours long*:\
+[<img src="./resources/37.png" width="42%">](https://www.youtube.com/live/olFuszziFJY?feature=share "Lecture 37")
+
+### **Lecture 38: Doing EDA in Python**
+
+Exploratory data analysis is a very important part of data science. It is the process of analyzing the data to understand the data. It is also known as the exploratory data analysis or EDA, or `Data ko soonghna`. 
+
+Steps of EDA in python:
+
+1. Import the required libraries.
+2. Import the dataset.
+3. Understand the data.
+4. Perform EDA.
+5. Visualize the data.
+7. Conclusion.
+
+Itna b asan nahi hy, aaj k is lecture main ham aik dataset k oper EDA analysis karen gay.
+
+Click here to watch the lecture:\
+[<img src="./resources/38.png" width="42%">](https://www.youtube.com/live/-hjdm00adeo?feature=share "EDA")
+
+### **Lecture 39: EDA in Python on Big Dataset (1/4)**
+
+Here is the lecture on EDA day 39:\
+[<img src="./resources/39.png" width="42%">](https://www.youtube.com/live/olFuszziFJY?feature=share "EDA Part 1")
+
+### **Lecture 40: EDA in Python on Big Dataset (2/4)**
+
+Here is the lecture on EDA day 40:\
+[<img src="./resources/40.png" width="42%">](https://www.youtube.com/live/NZ62PzN434w?feature=share "EDA Part 2")
+
+### **Lecture 41: EDA in Python on Big Dataset (3/4)**
+
+Here is the lecture on EDA day 41:\
+[<img src="./resources/41.png" width="42%">](https://www.youtube.com/live/fr4mHOOZXsg?feature=share "EDA Part 3")
+
+### **Lecture 42: EDA in Python on Big Dataset (4/4)**
+
+Here is the lecture on EDA day 42:\
+[<img src="./resources/42.png" width="42%">](https://www.youtube.com/live/xWFf66lvagM?feature=share "EDA Part 4")
+
+### **Lecture 43: EDA in Python (Practice Session)**
+
+Practice EDA based on the [following notebook](https://www.kaggle.com/code/bextuychiev/my-6-part-powerful-eda-template) and watch [Lecture 43](#lecture-43-eda-in-python-practice-session).
+
+### **Lecture 44: EDA in Python (Practice Session)**
+
+Practice EDA based on the [following notebook](https://www.kaggle.com/code/bextuychiev/my-6-part-powerful-eda-template) and watch [Lecture 43](#lecture-43-eda-in-python-practice-session).
+
+> Assignments: Use the following Datasets for your EDA:
+
+1. [Goole App Store](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps/download?datasetVersionNumber=7)
+2. [Apple Store](https://www.kaggle.com/gauthamp10/apple-appstore-apps)
+3. [Android App Permission dataset](https://www.kaggle.com/gauthamp10/app-permissions-android)
+
+and perform your EDA on two of the above mentioned, 1. is mandatory based on the lecture no. 43.
+
+### **Lecture 45: Machine Learning in Python**
+
+(Coming Soon)
+
+
+
+
 
 
 

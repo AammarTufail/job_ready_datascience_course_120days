@@ -583,3 +583,9 @@ PhD Data Science in Agriculture
 For any query
 
 contact: aammar@codanics.com
+
+
+To convert mardkdown to standalone html file:
+```
+pandoc READme.md -s -o READme.html
+```

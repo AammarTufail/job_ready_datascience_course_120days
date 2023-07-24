@@ -550,12 +550,724 @@ Practice EDA based on the [following notebook](https://www.kaggle.com/code/bextu
 
 and perform your EDA on two of the above mentioned, 1. is mandatory based on the lecture no. 43.
 
-### **Lecture 45: Machine Learning in Python**
+---
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+  
+# **Machine Learning**
+  
+</div>
 
-(Coming Soon)
+---
+
+Is section main ham machine learning seekhen gay, is section main total 37 lectures hyn, I hope ap is ko enjoy karne walay hy.
+
+>Let's start with the first lecture of Machine Learning.
+
+### **Lecture 01: Introduction to Machine learning**
+
+Here is the lecture on Machine Learning day 01:\
+[<img src="./resources/machine_learning/ml_01.png" width="50%">](https://youtube.com/live/FCzeIGxwUI8?feature=share "Machine Learning")
+
+### **Lecture 02: Regression vs. Classification**
+
+Here is the lecture on Machine Learning day 02:\
+[<img src="./resources/machine_learning/ml_02.png" width="50%">](https://youtube.com/live/LCTJcCPh_Ao?feature=share "Machine Learning")
+
+### **Lecture 03: Multilinear and Polynomial Regression**
+
+Here is the lecture on Machine Learning day 03:\
+[<img src="./resources/machine_learning/ml_03.png" width="50%">](https://youtube.com/live/lOWj65bErRA?feature=share "Machine Learning")
+
+### **Lecture 04: Logistic Regression Theory**
+
+Here is the lecture on Machine Learning day 04:\
+[<img src="./resources/machine_learning/ml_04.png" width="50%">](https://youtube.com/live/mT2N-LGp4-o?feature=share "Machine Learning")
+
+### **Lecture 05: Logistic Regression in Python**
+
+Here is the lecture on Machine Learning day 05:\
+[<img src="./resources/machine_learning/ml_05.png" width="50%">](https://youtube.com/live/CzXt9tfI0Ok?feature=share "Machine Learning")
+
+### **Lecture 06: Classification Metrics to evaluate models**
+
+Here is the lecture on Machine Learning day 06:\
+[<img src="./resources/machine_learning/ml_06.png" width="50%">](https://youtube.com/live/4ApRIPJhjn4?feature=share "Machine Learning")
 
 
+### **Lecture 07: Support VEctor Machines (SVMs)**
 
+Here is the lecture on Machine Learning day 07:\
+[<img src="./resources/machine_learning/ml_07.png" width="50%">](https://youtube.com/live/eBVCfu-eFXU?feature=share "Machine Learning")
+
+### **Lecture 08: Naive Bayes**
+
+Here is the lecture on Machine Learning day 08:\
+[<img src="./resources/machine_learning/ml_08.png" width="50%">](https://youtube.com/live/0bZ053kr-g8?feature=share "Machine Learning")
+
+### **Lecture 09: Cross Validation Methdos in Machine Learning**
+
+Here is the lecture on Machine Learning day 09:\
+[<img src="./resources/machine_learning/ml_09.png" width="50%">](https://youtube.com/live/4s689_LyBHE?feature=share "Machine Learning")
+
+### **Lecture 10: K nearest Neighbours (KNN)**
+
+Here is the lecture on Machine Learning day 10:\
+[<img src="./resources/machine_learning/ml_10.png" width="50%">](https://youtube.com/live/9HwFK7MTLi4?feature=share "Machine Learning")
+
+### **Lecture 11: Mathematics behind K-nearest Neighbours (KNN)**
+
+Here is the lecture on Machine Learning day 11:\
+[<img src="./resources/machine_learning/ml_11.png" width="50%">](https://youtube.com/live/PK5zacJ7aEM?feature=share "Machine Learning")
+
+### **Lecture 12: Missing or Null values Imputation**
+
+This lecture is in two parts:
+
+>#### **Lecture 12a: Missing or Null values Imputation**
+
+Here is the lecture on Machine Learning day 12a:\
+[<img src="./resources/machine_learning/ml_12a.png" width="50%">](https://youtube.com/live/0nvXdHxVp6w?feature=share "Machine Learning")
+
+>#### **Lecture 12b: Missing or Null values Imputation**
+
+Here is the lecture on Machine Learning day 12b:\
+[<img src="./resources/machine_learning/ml_12b.png" width="50%">](https://youtu.be/_LOUr71HKjo "Machine Learning")
+
+### **Lecture 13: Pipeline and Hyperparameter Tuning in ML**
+
+Here is the lecture on Machine Learning day 13:\
+[<img src="./resources/machine_learning/ml_13.png" width="50%">](https://youtu.be/_OnBCg00SIM "Machine Learning")
+
+### **Bonous Lecture: Data Science Portfolio with ChatGPT**
+
+Here is the lecture:\
+[<img src="./resources/machine_learning/ml_14a.png" width="50%">](https://youtu.be/P55hrwSCUhQ "chatGPT and Data Science Portfolio")
+
+### **Lecture 14: Decision Tree Algorithms**
+
+We will discuss about the role of Decision trees in the following algorithms:
+- ADAboost
+- XGBoost
+- Random Forest
+- Gradient Boosting
+
+
+More detailed lecture will br coming next in the following days/Lectures.
+
+Here is the lecture on Machine Learning day 14:\
+[<img src="./resources/machine_learning/ml_14b.png" width="50%">](https://youtu.be/Jr0Yl2M_bn0 "Machine Learning")
+
+
+The following blogs may help you further to understand the Decision Trees Ensemble Methods especially Bagging and Boosting concepts:
+
+1. [The Ultimate Guide to AdaBoost, random forests and XGBoost](https://towardsdatascience.com/the-ultimate-guide-to-adaboost-random-forests-and-xgboost-7f9327061c4f)
+2. [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+
+### **Lecture 15: Decision Tree Algorithm practice in Python with sk-learn**
+
+Here is the lecture on Machine Learning day 15:\
+[<img src="./resources/machine_learning/ml_15.png" width="50%">](https://youtu.be/ZeImGBZjFuA "Machine Learning")
+
+### **Lecture 16: ADA-booost**
+
+Here is the lecture on Machine Learning day 16:\
+[<img src="./resources/machine_learning/ml_16.png" width="50%">](https://youtu.be/DkdDH60Mfqs "Machine Learning")
+
+### **Lecture 17: Random Forest**
+
+Here is the lecture on Machine Learning day 17:\
+[<img src="./resources/machine_learning/ml_17.png" width="50%">](https://youtu.be/cEMqk9JHLkU "Machine Learning")
+
+### **Lecture 18: XGBoost, CATBoost, lightGBM**
+
+Here is the lecture on Machine Learning day 18:\
+[<img src="./resources/machine_learning/ml_18.png" width="50%">](https://youtu.be/HIZNPB3sMNI "Machine Learning")
+
+### **Lecture 19: Regularization Lasso (L1) and Ridge (L2) | A beginner guide**
+
+Here is the lecture on Machine Learning day 19:\
+[<img src="./resources/machine_learning/ml_19.png" width="50%">](https://youtu.be/sPZ0V1VrjU4 "Machine Learning")
+
+### **Lecture 20: Ensemble Algorithms in python**
+
+Here is the lecture on Machine Learning day 20:\
+[<img src="./resources/machine_learning/ml_20.png" width="50%">](https://youtu.be/9AbN0TImAh0 "Machine Learning")
+
+### **Lecture 21: Selecting a Best Model with Hyperparameter tuning**
+
+Here is the lecture on Machine Learning day 21:\
+[<img src="./resources/machine_learning/ml_21.png" width="50%">](https://youtu.be/6SN91m9E4vI "Machine Learning")
+
+### **Lecture 22: Unsupervised Machine Learning Algorithms**
+
+Here is the lecture on Machine Learning day 22:\
+[<img src="./resources/machine_learning/ml_22.png" width="50%">](https://youtu.be/Ht7kUMbeyXc "Machine Learning")
+
+### **Lecture 23: Clustering Algorithms**
+
+Here is the lecture on Machine Learning day 23:\
+[<img src="./resources/machine_learning/ml_23.png" width="50%">](https://youtu.be/RiiJ7Rtoc08 "Machine Learning")
+
+### **Lecture 24: K-means Clustering**
+
+Here is the lecture on Machine Learning day 24:\
+[<img src="./resources/machine_learning/ml_24.png" width="50%">](https://youtu.be/CI4en5k966A "Machine Learning")
+
+### **Lecture 25: kmeans vs. kmeans++ Clustering**
+
+Here is the lecture on Machine Learning day 25:\
+[<img src="./resources/machine_learning/ml_25.png" width="50%">](https://youtu.be/OuHS9xa6nhU "Machine Learning")
+
+### **Lecture 26: Hierarchical Clustering Theory**
+
+Here is the lecture on Machine Learning day 26:\
+[<img src="./resources/machine_learning/ml_26.png" width="50%">](https://youtu.be/gA0jOzoub-A "Machine Learning")
+
+### **Lecture 27: Hierarchical Clustering Practice in Python**
+
+Here is the lecture on Machine Learning day 27:\
+[<img src="./resources/machine_learning/ml_27.png" width="50%">](https://youtu.be/PVyILZow2Y4 "Machine Learning")
+
+### **Lecture 28: DBSCAN (Density-based spatial clustering of applications with noise)**
+
+Here is the lecture on Machine Learning day 28:\
+[<img src="./resources/machine_learning/ml_28.png" width="50%">](https://youtu.be/CUYHctYWbhQ "Machine Learning")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [Density Based Algorithms](https://towardsdatascience.com/density-based-algorithms-49237773c73b)
+
+### **Lecture 29: DBSCAN vs. OPTICS**
+
+OPTICS: Ordering points to identify the clustering structure
+
+DBSCAN: Density-based spatial clustering of applications with noise
+
+Here is the lecture on Machine Learning day 29:\
+[<img src="./resources/machine_learning/ml_29.png" width="50%">](https://youtu.be/i8Mb3aAhYSg "Machine Learning")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [OPTICS Clustering Explanation](https://www.geeksforgeeks.org/ml-optics-clustering-explanation/)
+> [Optics in Python](https://pub.towardsai.net/fully-explained-optics-clustering-with-python-example-4553108fa04b)
+
+### **Lecture 30: Gaussian Mixture Models (GMM)**
+
+Here is the lecture on Machine Learning day 30:\
+[<img src="./resources/machine_learning/ml_30.png" width="50%">](https://youtu.be/fQkKdl6i2no "Machine Learning")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [Gaussian Mixture Models Explained](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+
+
+### **Lecture 31: Evaluation metrics for GMM**
+
+Here is the lecture on Machine Learning day 31:\
+[<img src="./resources/machine_learning/ml_31.png" width="50%">](https://youtu.be/8MGkyNYT97A "Machine Learning")
+
+### **Lecture 32: Feature Engineering**
+
+Here is the lecture on Machine Learning day 32:\
+[<img src="./resources/machine_learning/ml_32.png" width="50%">](https://youtu.be/0Y4zGbv8GuE "Machine Learning")
+
+### **Lecture 33: Feature Selection**
+
+Here is the lecture on Machine Learning day 33:\
+[<img src="./resources/machine_learning/ml_33.png" width="50%">](https://youtu.be/LEcd-0V0vSs "Machine Learning")
+
+### **Lecture 34: Principal Component Analysis (PCA)**
+
+This lecture is in two parts:
+
+>#### **Lecture 34a: Principal Component Analysis (PCA) Theory**
+
+Here is the lecture on Machine Learning day 34a:\
+[<img src="./resources/machine_learning/ml_34a.png" width="50%">](https://youtu.be/7sfNUKsvjGM "Machine Learning")
+
+>#### **Lecture 34b: Principal Component Analysis (PCA) Practice and Interpretation**
+
+Here is the lecture on Machine Learning day 34b:\
+[<img src="./resources/machine_learning/ml_34b.png" width="50%">](https://youtu.be/lYasC4DsKF0 "Machine Learning")
+
+### **Lecture 35: SVD (Singular Value Decomposition)**
+
+Here is the lecture on Machine Learning day 35:\
+[<img src="./resources/machine_learning/ml_35.png" width="50%">](https://youtu.be/CjmBeepgnYg "Machine Learning")
+
+### **Lecture 36: tSNE (t-distributed Stochastic Neighbor Embedding)**
+
+Here is the lecture on Machine Learning day 36:\
+[<img src="./resources/machine_learning/ml_36.png" width="50%">](https://youtu.be/3YDSfaXqY3U "Machine Learning")
+
+----
+> Great! You have a done a good job by learning Machine Learning concepts and Coding in Python. As a small token, here are two bonus lecture:
+> 
+### **Google Colab use, tips and tricks**
+
+Here is the lecture on Machine Learning day 37:\
+[<img src="./resources/machine_learning/ml_37.png" width="70%">](https://youtu.be/NAvWmSTH9WA "Machine Learning")
+
+### **Miconda and Conda Environments for Effiecint use of ML models**
+
+Here is the lecture on Machine Learning day 38:\
+[<img src="./resources/machine_learning/ml_38.png" width="70%">](https://youtu.be/nsFdTgwDrVEmSTH9WA "Machine Learning")
+
+> Now, let's move to the Deep Learning Section.
+
+---
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+  
+# **Deep Learning**
+  
+</div>
+---
+
+### **Lecture 01: Introduction to Deep Learning (DL-101)**
+
+Here is the lecture on Deep Learning day 01:\
+[<img src="./resources/deep_learning/dl_01.png" width="50%">](https://youtu.be/LnbQCSZz3_k "Deep Learning")
+
+### **Lecture 02: What is Neural Network? and How we can construct it**
+
+Here is the lecture on Deep Learning day 02:\
+[<img src="./resources/deep_learning/dl_02.png" width="50%">](https://youtu.be/4UB8dyjuO8s "Deep Learning")
+
+### **Lecture 03: Number of neurons in Each Layer**
+
+Here is the lecture on Deep Learning day 03:\
+[<img src="./resources/deep_learning/dl_03.png" width="50%">](https://youtu.be/3ZA5rdJ_ilg "Deep Learning")
+
+### **Lecture 04: Computer Vision (Basics)**
+
+Here is the lecture on Deep Learning day 04:\
+[<img src="./resources/deep_learning/dl_04.png" width="50%">](https://youtu.be/TWhR_8JjDwU "Deep Learning")
+
+### **Lecture 05: Deep Learning and Computer Vision**
+
+Here is the lecture on Deep Learning day 05:\
+[<img src="./resources/deep_learning/dl_05.png" width="50%">](https://youtu.be/_qhqPW-7Rgs "Deep Learning")
+
+### **Lecture 06: Activation Functions**
+
+This is a deatiled 3 parts lecture on activation functions, we will discuss the following activation functions in this lecture:
+
+
+1. Linear: 📈
+2. Binary Step: ⬆️⬇️
+3. Sigmoid: 🔘
+4. Tanh: 📈🔘📉
+5. ReLU: ⚡️
+6. Leaky ReLU: ⚡️💧
+7. Parametric ReLU: ⚡️🔑
+8. Softmax: 🌟
+9. Exponential Linear Unit (ELU): ⚡️📈
+10. swish: ⚡️🔘
+
+Here is the lecture on Deep Learning day 06:\
+[<img src="./resources/deep_learning/dl_06.png" width="50%">](https://youtu.be/R45Su8qB4vk "Deep Learning")
+
+### **Lecture 07: Activation Functions**
+
+Here is the lecture on Deep Learning day 07:\
+[<img src="./resources/deep_learning/dl_07.png" width="50%">](https://youtu.be/j7eFGzL1L14 "Deep Learning")
+
+### **Lecture 08: Activation Functions**
+
+Here is the lecture on Deep Learning day 08:\
+[<img src="./resources/deep_learning/dl_08.png" width="50%">](https://youtu.be/c97dhwlHu68 "Deep Learning")
+
+### **Lecture 09: How to choose an activation functions**
+
+Here is the lecture on Deep Learning day 09:\
+[<img src="./resources/deep_learning/dl_09.png" width="50%">](https://youtu.be/q1cVPzlH280 "Deep Learning")
+
+### **Lecture 10: Regression with Artificial Neural Network (ANN)**
+
+Here is the lecture on Deep Learning day 10:\
+[<img src="./resources/deep_learning/dl_10.png" width="50%">](https://youtu.be/mESqyC0sHMQ "Deep Learning")
+
+### **Lecture 11: Test, training, validation loss in Artificial Neural Network (ANN)**
+
+Here is the lecture on Deep Learning day 11:\
+[<img src="./resources/deep_learning/dl_11.png" width="50%">](https://youtu.be/pCNa0Rm7Ftk "Deep Learning")
+
+> Great! You have done a great job in learning Deep Learning. As a token of appreciation, here you have two bonus lectures to increase your skillset.
+
+### **Bonus Lecture: gitHUB copilotX**
+
+Here is the lecture on github copilotX:\
+[<img src="./resources/deep_learning/dl_12.png" width="70%">](https://youtu.be/URz60dWct7U "Deep Learning")
+
+### **Bonus Lecture: How to find big Datasets for you Data science, Machine Learning or Deep Learning portfolio?**
+
+Here is the lecture on Finding Big Datasets:\
+[<img src="./resources/deep_learning/dl_13.png" width="70%">](https://youtu.be/Z4P0ao_nmio "Deep Learning")
+
+
+### **Lecture 12: Convolutional Neural Network (CNN) Theory**
+
+Here is the lecture on CNN:\
+[<img src="./resources/deep_learning/dl_14.png" width="50%">](https://youtu.be/N7eD14XuNFQ "Deep Learning")
+
+### **Lecture 13: Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework**
+
+Here is the lecture on CNN:\
+[<img src="./resources/deep_learning/dl_15.png" width="50%">](https://youtu.be/NReTiAnPtG4 "Deep Learning")
+
+### **Lecture 14: Master Convolutional Neural Network (CNN)Concepts to make projects**
+
+Here is the lecture on CNN:\
+[<img src="./resources/deep_learning/dl_16.png" width="50%">](https://youtu.be/u9AgFxP9D_Y "Deep Learning")
+
+### **Lecture 15: Recurrent Neural Network (RNN) Theory**
+
+Here is the lecture on RNN:\
+[<img src="./resources/deep_learning/dl_17.png" width="50%">](https://youtu.be/hkC7_vaVHos "Deep Learning")
+
+### **Lecture 16: Recurrent Neural Network (RNN) Practice in Python | Tensorflow framework**
+
+Here is the lecture on RNN:\
+[<img src="./resources/deep_learning/dl_18.png" width="50%">](https://youtu.be/dDH_o3qWupQ "Deep Learning")
+
+### **Lecture 17: NLP with RNN**
+
+NLP (Natural Language Processing) is a very important part of Deep Learning, in this lecture we will discuss NLP with RNN.
+
+Here is the lecture on NLP with RNN:\
+[<img src="./resources/deep_learning/dl_19.png" width="50%">](https://youtube.com/live/7sr8KgtyR0o?feature=share "Deep Learning")
+
+### **Lecture 18: Key Terms to be used in NLP**
+
+Here is the lecture on NLP Key Terms:\
+[<img src="./resources/deep_learning/dl_20.png" width="50%">](https://youtu.be/aN3BI181r2Q "Deep Learning")
+
+### **Lecture 19: Sentiment Anlysis using RNN**
+
+Here is the lecture on Sentiment Analysis:\
+[<img src="./resources/deep_learning/dl_21.png" width="50%">](https://youtu.be/aKQXtZcAldo "Deep Learning")
+
+### **Lecture 20: LSTM (Long Short Term Memory) Theory for NLP in Python**
+
+Here is the lecture on LSTM:\
+[<img src="./resources/deep_learning/dl_22.png" width="50%">](https://youtu.be/fvnoVGLtS0k "Deep Learning")
+
+### **Lecture 21: Fastest way to make notebooks for your portfolio using gitHub copilotX**
+
+Here is the lecture on gitHub copilotX:\
+[<img src="./resources/deep_learning/dl_23.png" width="50%">](https://youtu.be/cLnyoLp6o9g "Deep Learning")
+
+### **Lecture 22: Key DIfferences: ANN vs. CNN vs. RNN vs. LSTM vs. GRU**
+
+ANN (Artificial Neural Network) vs. CNN (Convolutional Neural Network) vs. RNN (Recurrent Neural Network) vs. LSTM (Long Short Term Memory) vs. GRU (Gated Recurrent Unit)
+
+Here is the lecture on Key Differences:\
+[<img src="./resources/deep_learning/dl_24.png" width="50%">](https://youtu.be/CJDFNh5l_Ls "Deep Learning")
+
+### **Lecture 23: LSTM vs. GRU**
+
+LSTM (Long Short Term Memory) vs. GRU (Gated Recurrent Unit). 
+Here are the key differences between LSTM and GRU:
+
+* LSTM has 3 gates (input, output, and forget), while GRU has 2 gates (reset and update).
+* LSTM has 1 memory cell, while GRU has 1 gate that controls the flow of information.
+* LSTM has 1 output, while GRU has 2 outputs (hidden state and output).
+* LSTM has 1 forget gate, while GRU has 1 reset gate.
+* LSTM has 1 input gate, while GRU has 1 update gate.
+* 
+Overall, both `LSTM` and `GRU` are types of recurrent neural networks that are used for sequence modeling. LSTM is more complex and has more gates, which allows it to capture longer-term dependencies in the data. GRU is simpler and has fewer parameters, which makes it faster to train and less prone to overfitting.
+
+Here is the lecture on LSTM vs. GRU:\
+[<img src="./resources/deep_learning/dl_25.png" width="50%">](https://youtu.be/RNyuKM1F6JU "Deep Learning")
+
+
+> Great! You have done a great job in learning Deep Learning. As a token of appreciation, here you have two bonus lectures to increase your skillset.
+
+### **Bonus Lecture: Job Search and Interview Preparation on LinkedIn using chatGPT**
+
+Here is the lecture on Job Search and Interview Preparation:\
+[<img src="./resources/46.png" width="70%">](https://youtu.be/xHxYyu_29CQ "Deep Learning")
+
+### **Bonus Lecture: New AI courses on Google by Goolge**
+
+Here is the lecture on New AI courses on Google by Goolge:\
+[<img src="./resources/47.png" width="70%">](https://youtu.be/yLzedg2NGeg "Deep Learning")
+
+> Now, let's move to the Time Series Data Analysis Section.
+
+---
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+  
+# **Time Series**
+  
+</div>
+---
+
+### **Lecture 01: Introduction to Time Series**
+
+Here is the lecture on Introduction to time series:\
+[<img src="./resources/time_series/ts_01.png" width="50%">](https://youtu.be/jySVZ0CoRho "Time Series")
+
+### **Lecture 02: Types of Data Analysis in Time Series**
+
+Here is the lecture on Types of Data Analysis in Time Series:\
+[<img src="./resources/time_series/ts_02.png" width="50%">](https://youtu.be/pp9l-s_nyVE "Time Series")
+
+### **Lecture 03: Data Types in Time Series**
+
+Here is the lecture on Data Types in Time Series:\
+[<img src="./resources/time_series/ts_03.png" width="50%">](https://youtu.be/OG0G_OMOyKI "Time Series")
+
+### **Lecture 04: Time Series Data Analysis in Python**
+
+Here is the lecture on Time Series Data Analysis in Python:\
+[<img src="./resources/time_series/ts_04.png" width="50%">](https://youtu.be/VhryowCV-jc "Time Series")
+
+### **Lecture 05: Time Series Project Formation**
+
+Here is the lecture on Time Series Project Formation:\
+[<img src="./resources/time_series/ts_05.png" width="50%">](https://youtu.be/vEHJDIHaAmQ "Time Series")
+
+### **Lecture 06: Weather Forecasting Project (Part-1)**
+
+Here is the lecture on Weather Forecasting (Part-1):\
+[<img src="./resources/time_series/ts_06.png" width="50%">](https://youtu.be/XdTa7n_iz9E "Time Series")
+
+### **Lecture 07: Weather Forecasting Project (Part-2)**
+
+Here is the lecture on Weather Forecasting (Part-2):\
+[<img src="./resources/time_series/ts_07.png" width="50%">](https://youtu.be/Bv2fIWjVs0o "Time Series")
+
+### **Lecture 08: Weather Forecasting Project (Part-3)**
+
+Here is the lecture on Weather Forecasting (Part-3):\
+[<img src="./resources/time_series/ts_08.png" width="50%">](https://youtu.be/xOWuejmnUF8 "Time Series")
+
+### **Lecture 09: Facebook Model - prophet Model (Part-1)**
+
+Here is the lecture on Facebook Model - prophet Model (Part-1):\
+[<img src="./resources/time_series/ts_09.png" width="50%">](https://youtu.be/DxtDh0cvTTk "Time Series")
+
+### **Lecture 10: Facebook Model - prophet Model (Part-2)**
+
+Here is the lecture on Facebook Model - prophet Model (Part-2):\
+[<img src="./resources/time_series/ts_10.png" width="50%">](https://youtu.be/UxUe135XbWk "Time Series")
+
+### **Lecture 11: Webscrapping vs. Webcrawling**
+
+Here is the lecture on Webscrapping vs. Webcrawling:\
+[<img src="./resources/time_series/ts_11.png" width="50%">](https://youtu.be/ncLc4HSIovk "Time Series")
+
+
+### **Lecture 12: Webscrapping with Python on wikipedia**
+
+Here is the lecture on Webscrapping with Python on wikipedia:\
+[<img src="./resources/time_series/ts_12.png" width="50%">](https://youtu.be/7tJFYwLKHQ0 "Time Series")
+
+### **Lecture 13: Stock Market Data Scrapping in Python**
+
+Here is the lecture on Stock Market Data Scrapping in Python:\
+[<img src="./resources/time_series/ts_13.png" width="50%">](https://youtu.be/74lqfpnsQz8 "Time Series")
+
+### **Lecture 14: ARIMA model in Time Series-Introduction (Part-1)**
+
+ARIMA (Auto Regressive Integrated Moving Average) model in Time Series-Introduction.
+
+Here is the lecture on ARIMA model in Time Series-Introduction (Part-1):\
+[<img src="./resources/time_series/ts_14.png" width="50%">](https://youtu.be/GfaYEzGoBUU "Time Series")
+
+### **Lecture 15: ARIMA model python (Part-2)**
+
+Here is the lecture on ARIMA model python (Part-2):\
+[<img src="./resources/time_series/ts_15.png" width="50%">](https://youtu.be/Uo6EZQCHJqY "Time Series")
+
+### **Lecture 16: ARIMA model Explained Further (Part-3)**
+
+Here is the lecture on ARIMA model Explained Further (Part-3):\
+[<img src="./resources/time_series/ts_16.png" width="50%">](https://youtu.be/4UfKCHjoHIM "Time Series")
+
+### **Lecture 17: Stock Market Forecasting**
+
+Here is the lecture on Stock Market Forecasting:\
+[<img src="./resources/time_series/ts_17.png" width="50%">](https://youtu.be/ALWt6y7lVWw "Time Series")
+
+### **Lecture 18: Webapplication development using Streamlit**
+
+Here is the lecture on Webapplication development using Streamlit:\
+[<img src="./resources/time_series/ts_18.png" width="50%">](https://youtu.be/tRJa_Lpyb1A "Time Series")
+
+### **Lecture 19: Stock Market Data Forecast - A complete Project**
+
+Here is the lecture on Stock Market Data Forecast - A complete Project:\
+[<img src="./resources/time_series/ts_19.png" width="50%">](https://youtu.be/jUHbl02inAk "Time Series")
+
+---
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+
+# **openCV and pyTorch**
+
+</div>
+
+### **Lecture 01: Introduction to openCV**
+
+Here is the lecture on Introduction to openCV:\
+[<img src="./resources/52.png" width="50%">](https://youtu.be/pFCf8RbEsoQ "openCV")
+
+### **Lecture 02: Edge Detection in openCV with Python**
+
+Here is the lecture on Edge Detection in openCV with Python:\
+[<img src="./resources/53.png" width="50%">](https://youtu.be/RQx8o9gb8TY "openCV")
+
+### **Lecture 03: Face Detection in openCV with Python**
+
+Here is the lecture on Face Detection in openCV with Python:\
+[<img src="./resources/54.png" width="50%">](https://youtu.be/C7jOMm2ftKU "openCV")
+
+### **Lecture 04: streamlit webapp using openCV-python- A complete project**
+
+Here is the lecture on streamlit webapp using openCV-python- A complete project:\
+[<img src="./resources/55.png" width="50%">](https://youtu.be/4SM4mFOk2Yk "openCV")
+
+### **Lecture 05: Computer Vision Learning Resources**
+
+Here is the lecture on Computer Vision Learning Resources:\
+[<img src="./resources/56.png" width="50%">](https://youtu.be/rRjTBGDy5Uw "openCV")
+
+### **Lecture 06: Introduction to pyTorch**
+
+Here is the lecture on Introduction to pyTorch:\
+[<img src="./resources/57.png" width="50%">](https://youtu.be/4SM4mFOk2Yk "pyTorch")
+
+### **Lecture 07: pyTorch Binary Class Classification using ANN**
+
+Here is the lecture on pyTorch Binary Class Classification using ANN:\
+[<img src="./resources/58.png" width="50%">](https://youtu.be/Zu_a_IaxcEI "pyTorch")
+
+### **Lecture 08: pyTorch Multi Class Classification using ANN**
+
+Here is the lecture on pyTorch Multi Class Classification using ANN:\
+[<img src="./resources/59.png" width="50%">](https://youtu.be/eVLSD12PhLo "pyTorch")
+
+### **Lecture 09: pyTorch and DeepLabv3**
+
+Here is the lecture on pyTorch and DeepLabv3:\
+[<img src="./resources/60.png" width="50%">](https://youtu.be/QMcE6fQKcJI "pyTorch")
+
+---
+
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+
+# **langChain and API integration and Generative Models**
+</div>
+
+### **Lecture 01: Reinforcement Learning for Langchain and Robotics**
+
+Here is the lecture on Reinforcement Learning for Langchain and Robotics:\
+[<img src="./resources/61.png" width="50%">](https://youtu.be/nly5e2Fbs4M "RL")
+
+### **Lecture 02: langChain A-Z explained**
+
+Here is the lecture on langChain introduction:\
+[<img src="./resources/62.png" width="50%">](https://youtu.be/vzcFu6ZPS-o "langChain")
+
+### **Lecture 03: langChain app in 14 lines of code**
+
+Here is the lecture on langChain app in 14 lines of code:\
+[<img src="./resources/63.png" width="50%">](https://youtu.be/1HMo1X84eQM "langChain")
+
+<details><summary><b>Click here to see the code</b></summary>
+
+```python
+import streamlit as st
+from langchain.llms import OpenAI
+st.title('🦜🔗 Quickstart App')
+openai_api_key = st.sidebar.text_input('OpenAI API Key')
+def generate_response(input_text):
+  llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
+  st.info(llm(input_text))
+with st.form('my_form'):
+  text = st.text_area('Enter text:', '...')
+  submitted = st.form_submit_button('Submit')
+  if not openai_api_key.startswith('sk-'):
+    st.warning('Please enter your OpenAI API key!', icon='⚠')
+  if submitted and openai_api_key.startswith('sk-'):
+    generate_response(text)
+```
+</details>
+
+### **Lecture 04: API integration to make NLP apps**
+
+Here is the lecture on API integration to make NLP apps:\
+[<img src="./resources/48.png" width="50%">](https://youtu.be/edv07U7N2EE "langChain")
+
+### **Lecture 05: chatGPT code interpreter**
+
+Here is the lecture on chatGPT code interpreter:\
+[<img src="./resources/49.png" width="50%">](https://youtu.be/tlcCcDCykOw "langChain")
+
+### **Lecture 06: chatPDF application - A complete project**
+
+Here is the lecture on chatPDF application - A complete project:\
+[<img src="./resources/50.png" width="50%">](https://youtu.be/bZ7FrgZX2Xw "langChain")
+
+### **Lecture 07: COVID-19 Data Science project Idea - A complete project**
+
+Here is the lecture on COVID-19 Data Science project Idea - A complete project:\
+[<img src="./resources/51.png" width="50%">](https://youtu.be/cfEtXaE89T4 "langChain")
+
+### **Lecture 08: Generative Models in Python (Stable Diffusion for AI art in Tensorflow**
+
+Here is the lecture on Generative Models in Python (Stable Diffusion for AI art in Tensorflow:\
+[<img src="./resources/64.png" width="50%">](https://youtu.be/psRUFZ9N-bc "Generative Models")
+
+<details><summary><b>Click here to see the code</b></summary>
+
+```python
+# !pip install tensorflow keras_cv --upgrade --quiet
+import time
+import keras_cv
+from tensorflow import keras
+import matplotlib.pyplot as plt
+model = keras_cv.models.StableDiffusion(img_width=512, img_height=512)
+images = model.text_to_image(prompt="photograph of an astronaut riding a horse at the beach", 
+                             batch_size=3, 
+                             num_steps=3, 
+                             seed=42,
+                             negative_prompt="a painting of a horse")
+
+def plot_images(images):
+    plt.figure(figsize=(20, 20))
+    for i in range(len(images)):
+        ax = plt.subplot(1, len(images), i + 1)
+        plt.imshow(images[i])
+        plt.axis("off")
+
+plot_images(images)
+# save images
+for i, img in enumerate(images):
+    keras.preprocessing.image.save_img(f"./images/new_image_{i}.jpg", img, scale=True)
+```
+</details>
+
+---
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 10px;">
+
+# **Ai News Updates**
+
+</div>
+
+I will keep updating this section with latest AI news, so stay tuned.
+
+### **AI News Updates 21st July 2023**
+
+Here is the link to AI News:\
+[<img src="./resources/65.png" width="80%">](https://youtu.be/sQo2v_HeB-M "AI News")
+
+
+# YourFeedback and Certificate of Completion:
+
+Did you complete this course and learn most of the things, then let us know via email at info@codanics.com we will give you a certificate of completion (Paid). Ye certificate tab hi milay ga agar ap koi se 10 Porjects complete kar k hamen send karen gay.
+
+# **Join our Facebook Group for more updates:**
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/)
 
 
 
@@ -565,7 +1277,6 @@ and perform your EDA on two of the above mentioned, 1. is mandatory based on the
 # **Information about the instructor:**
 
 [<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
-
 
 
 **Dr. Muhammad Aammar Tufail**

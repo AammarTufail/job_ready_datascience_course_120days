@@ -1,7 +1,7 @@
 ---
 title: 120-days of job Ready Data Science Course
-author: Dr. Aammar Tufail
 date: July 24, 2023
+author: Dr. Aammar Tufail
 ---
 # 120-days of job Ready Data Science Course 
 This course is a paid course, if you want to register and join our zoom meeting and online live classes you can [register here](https://forms.gle/aB3VbemahWTxGtGx8)
@@ -1488,3 +1488,7 @@ PhD Data Science in Agriculture
 For any query
 
 contact: aammar@codanics.com
+
+
+
+<!-- pandoc READme.md --from gfm -s --embed-resources --standalone -o READme.html -->
